@@ -4,8 +4,8 @@ int main()
   int z1;
   int z2;
   int z3;
-  id = 18 % 10 + 1;
-  count_z = 19;
+  int id = 18 % 10 + 1;
+  int count_z = 19;
   z1 = id + (count_z%id);
   z2 = ((id*3)%count_z)+1;
   z3 = (((id * 3) + id) % count_z)+1;
