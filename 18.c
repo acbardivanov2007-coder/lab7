@@ -89,8 +89,7 @@ int main()
         printf("Общая зарплата: $%.2f\n", zarplata);
         printf("Налоги: $%.2f\n", nalogi);
         printf("Чистая зарплата: $%.2f\n", chistaya);
-        printf("----------------------------\n\n");
     }
-    printf("Программа завершена. До свидания!\n");
+    printf("Программа завершена\n");
     return 0;
 }
